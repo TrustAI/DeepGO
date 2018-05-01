@@ -1,6 +1,9 @@
 # DeepGO
 Reachability Analysis of Deep Neural Networks with Provable Guarantees
 
+Authors: Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska
+
+Accepted in IJCAI-18, 
 
 ## Contain two folders:
 
