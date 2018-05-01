@@ -1,0 +1,4 @@
+You can run Main_Expt2.m to perform the reachability analysis for choosen 
+DNNs and features
+
+The lipschitz constant is dynamic estimated during the global searching

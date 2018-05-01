@@ -1,0 +1,6 @@
+You can run Main_Expt1.m to generate the results for experiment-1 in
+the paper.
+
+FunctionNNs contains the 6 neural networks trained.
+
+The accurate global minimum is calculated through exhaustive search.
