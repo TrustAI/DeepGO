@@ -6,7 +6,7 @@ DNN-1 to DNN-7 contain the all the reachability analysis for 20 images and 4 fea
 
 The lipschitz constant is dynamically estimate during the searching.
 
-DNN2_img_1_feaNew_3: indicate DNN-2, ImageIndex-1 (ie, 1st image MNIST  testing dataset), and feature-3
+DNN2_img_1_feaNew_3: indicates DNN-2, ImageIndex-1 (i.e., 1st image in MNIST testing dataset), and feature-3
 
 ### Each image has three sub-images:
 
