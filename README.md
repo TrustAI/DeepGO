@@ -40,7 +40,7 @@ Parallel Computing Toolbox
 
 # Run
 
-## Fold "ExperimentCode" contains two folders:
+## Folder "ExperimentCode" contains two sub-folders:
 
 ### Experiment1_FunctionNN 
 
@@ -50,7 +50,7 @@ Code for the experiment 6.1 in the paper Lipschitz constant is set before search
 
 Code for the experiment 6.2 in the paper Lipschitz constant is dynamic estimated during the searching
 
-## Fold "ExperimentResults" contains more experimental results
+## Folder "ExperimentResults" contains more experimental results
 
 
 # Citation
