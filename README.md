@@ -10,7 +10,7 @@ Reachability Analysis of Deep Neural Networks with Provable Guarantees
 
 Authors: Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska
 
-Accepted by 27th International Joint Conference on Artificial Intelligence (IJCAI'18)
+To be appear by 27th International Joint Conference on Artificial Intelligence (IJCAI'18)
 
 The long version can be found in https://arxiv.org/abs/1805.02242 
 
