@@ -40,11 +40,11 @@ Parallel Computing Toolbox
 
 Experiment1_FunctionNN:
 
-Code for the experiment 6.1 in the paper Lipschitz constant is set before searching
+Code for the experiment 6.1 in the paper, Lipschitz constant is set before the searching
 
 Experiment2_DNN_MNIST:
 
-Code for the experiment 6.2 in the paper Lipschitz constant is dynamic estimated during the searching
+Code for the experiment 6.2 in the paper, Lipschitz constant is dynamically estimated during the searching
 
 ### Folder "ExperimentResults" contains more experimental results
 
