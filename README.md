@@ -1,16 +1,12 @@
 
 
-
-
-
-
 # DeepGO: Reachability Analysis of Deep Neural Networks with Provable Guarantees
 
 Reachability Analysis of Deep Neural Networks with Provable Guarantees
 
 Authors: Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska
 
-To be appear by 27th International Joint Conference on Artificial Intelligence (IJCAI'18)
+To be appear in 27th International Joint Conference on Artificial Intelligence (IJCAI'18)
 
 The long version can be found in https://arxiv.org/abs/1805.02242 
 
@@ -57,7 +53,7 @@ Code for the experiment 6.2 in the paper Lipschitz constant is dynamic estimated
 ```
 @article{RHK2018,
 	Author = {Wenjie Ruan and Xiaowei Huang and Marta Kwiatkowska},
-	Journal = { The 27th International Joint Conference on Artificial Intelligence (IJCAI)},
+	Journal = { The 27th International Joint Conference on Artificial Intelligence (IJCAI'18)},
 	Title = {Reachability Analysis of Deep Neural Networks with Provable Guarantees},
 	Year = {2018}}
 ```
@@ -70,3 +66,5 @@ or
 	Title = {Reachability Analysis of Deep Neural Networks with Provable Guarantees},
 	Year = {2018}}
 ```
+
+
