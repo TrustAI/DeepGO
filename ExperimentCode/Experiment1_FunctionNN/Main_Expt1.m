@@ -34,8 +34,8 @@ for i = 1:6
     disp('Now use the exhaustive Search to find the accurate minimum!')
     disp('It may take a while ... around tens of minutes without GPU')
     
-    x_pixel1 = LB(1):0.0002:UB(1);
-    x_pixel2 = LB(2):0.0002:UB(2);
+    x_pixel1 = LB(1):0.002:UB(1);
+    x_pixel2 = LB(2):0.002:UB(2);
     [X,Y] = meshgrid(x_pixel1,x_pixel2);
     input = [X(:),Y(:)]';
     tic
