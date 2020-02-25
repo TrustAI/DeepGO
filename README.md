@@ -69,3 +69,21 @@ or
 ```
 
 
+# Acknowledgement:
+Here we would like to acknowledge Prof. Yaroslav Sergeyev's discussion and help on the convergence analysis.
+```
+@article{grishagin2018convergence,
+  title={Convergence conditions and numerical comparison of global optimization methods based on dimensionality reduction schemes},
+  author={Grishagin, Vladimir and Israfilov, Ruslan and Sergeyev, Yaroslav},
+  journal={Applied Mathematics and Computation},
+  volume={318},
+  pages={270--280},
+  year={2018},
+  publisher={Elsevier}
+}
+```
+
+
+
+
+
